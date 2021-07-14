@@ -2,8 +2,8 @@
   "name": "dd-narrator",
   "displayName": "Narrator",
   "description": "This is a meme VSC extension that sends you quotes from DD when you change workspace theme",
-  "version": "0.0.1",
-  "icon": "https://github.com/lesha-co/dd-narrator-for-vsc/blob/f748dc4d609d9249ca7343e011246b82fe04a7aa/icon.png",
+  "version": "0.0.2",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.58.0"
   },
