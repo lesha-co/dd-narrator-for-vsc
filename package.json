@@ -8,7 +8,7 @@
     "vscode": "^1.58.0"
   },
   "publisher": "lesha",
-  "repository": "https://github.com/lesha-co/dd-narrator-for-vsc",
+  "repository": "https://github.com/lesha-co/dd-narrator-for-vsc.git",
   "categories": [
     "Other"
   ],

@@ -7,4 +7,4 @@ This is a meme extension. The only thing it does at the moment is displays a not
 
 ## Demo
 
-![demo video](assets/narrator.mp4 "demo video")
+![demo video](assets/demo.gif "demo video")
