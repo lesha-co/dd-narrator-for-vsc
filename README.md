@@ -4,3 +4,7 @@ This is a meme extension. The only thing it does at the moment is displays a not
 ## Known Issues
 
 "High contrast" themes aren't supported at the moment
+
+## Demo
+
+![demo video](assets/narrator.mp4 "demo video")

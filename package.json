@@ -3,7 +3,7 @@
   "displayName": "Narrator",
   "description": "This is a meme VSC extension that sends you quotes from DD when you change workspace theme",
   "version": "0.0.2",
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.58.0"
   },
