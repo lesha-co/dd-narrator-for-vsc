@@ -3,9 +3,12 @@
   "displayName": "Narrator",
   "description": "This is a meme VSC extension that sends you quotes from DD when you change workspace theme",
   "version": "0.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.58.0"
   },
+  "publisher": "lesha",
+  "repository": "https://github.com/lesha-co/dd-narrator-for-vsc",
   "categories": [
     "Other"
   ],
